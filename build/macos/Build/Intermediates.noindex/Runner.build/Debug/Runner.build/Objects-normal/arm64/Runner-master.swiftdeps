@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "8594227500817de0eff22568825c6fe0d8d75d16d1aa60a28b9cfcbbfe22788b"
+build_start_time: [1664923791, 250828027]
+build_end_time: [1664923798, 185330867]
+inputs:
+  "/Users/cesar-pimenta/projects/flutter/geekshop/macos/Flutter/GeneratedPluginRegistrant.swift": [1664923775, 144952297]
+  "/Users/cesar-pimenta/projects/flutter/geekshop/macos/Runner/AppDelegate.swift": [1657744731, 0]
+  "/Users/cesar-pimenta/projects/flutter/geekshop/macos/Runner/MainFlutterWindow.swift": [1657744731, 0]
